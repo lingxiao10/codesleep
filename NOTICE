@@ -1,0 +1,27 @@
+CodeSleep
+Copyright 2024-2026 CodeSleep Project
+
+This product includes software developed by the CodeSleep Project.
+
+================================================================================
+TRADEMARK NOTICE
+================================================================================
+
+"CodeSleep" is a trademark of the CodeSleep Project.
+
+This Apache 2.0 license grants you rights to use, modify, and distribute the
+SOURCE CODE. However, it does NOT grant you rights to use the "CodeSleep" name,
+brand, or logo for your own products or services.
+
+You MAY:
+  - Use the code under the Apache 2.0 license
+  - State that your work is "based on CodeSleep" or "derived from CodeSleep"
+  - Reference CodeSleep in documentation to describe the origin of the code
+
+You MAY NOT:
+  - Use "CodeSleep" as the name of your product or service
+  - Use "CodeSleep" in a way that suggests official endorsement
+  - Use variations like "CodeSleep Pro", "CodeSleep Plus", etc.
+  - Use the CodeSleep logo or branding materials
+
+For questions about trademark usage, please contact the project maintainers.
